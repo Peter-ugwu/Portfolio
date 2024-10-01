@@ -7,6 +7,7 @@
     background-image: url(../images/2\ \(1\).jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+
 }
 .header {
     display: flex;
@@ -14,10 +15,10 @@
     justify-content: space-between; 
 }
 .logo { 
-    font-size: large;
-    width: 11%;
+    font-size: larger;
+    width: 13%;
     margin-left: 6%;
-    padding: 2%;
+    padding: 3%;
     color: white;
 
 }
@@ -26,9 +27,10 @@
     display : flex;
     justify-content: space-around;
     align-items: center;
-    padding: 2%;
+    padding: 3%;
     margin-right: 6%;
-    font-size: large;
+    font-size: 15px;
+    font-family: Verdana;
 }
 .menu{
     text-decoration: none;
@@ -37,4 +39,20 @@
 }
 .nav{
     color: red;
+}
+.content {
+    height: 89vh;
+    width: 100;
+    padding: 14% 0%;
+    margin-left: 8%;
+    color: white;
+}
+.content-name {
+    font-size: 70px;
+    font-family: Verdana;
+}
+.content-job {
+    font-size: 20px;
+    font-family: verdana;
+    padding-top: 2%;
 }
