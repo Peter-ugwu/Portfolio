@@ -3,3 +3,38 @@
     padding: 0%;
     box-sizing: border-box;
 }
+.navigation {
+    background-image: url(../images/2\ \(1\).jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+.logo { 
+    font-size: large;
+    width: 11%;
+    margin-left: 6%;
+    padding: 2%;
+    color: white;
+
+}
+.nav-link {
+    width: 38%;
+    display : flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2%;
+    margin-right: 6%;
+    font-size: large;
+}
+.menu{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.nav{
+    color: red;
+}
