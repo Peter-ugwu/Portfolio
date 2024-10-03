@@ -42,7 +42,6 @@
 }
 .content {
     height: 89vh;
-    width: 100;
     padding: 14% 0%;
     margin-left: 8%;
     color: white;
@@ -56,3 +55,60 @@
     font-family: verdana;
     padding-top: 2%;
 }
+#About {
+    display: flex;
+    width: 100%;
+    background-color: #fff;
+}
+.img-about {
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 7%;
+    padding-top:4%
+}
+.text-about {
+    margin-top: 15%;
+}
+.text-about h3 {
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family: verdana;
+    color: #000;
+}
+.span {
+    color: rgba(190, 5, 5, 0.825);
+}
+.text-about p {
+    padding: 4% 4% 4% 0%;
+    font-family: mulish;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    width: 92%;
+    color: #767676cb;
+
+}
+.list-about{
+    font-family: verdana;
+    font-weight: 650;
+    color: #000;
+    font-style: italic;
+    list-style: none;
+    line-height: 30px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.btn-cv {
+    background-color: #f24848;
+    color: #fff;
+    border: 2px solid #e64b4b;
+    padding: 2% 6%;
+    border-radius: 5px;
+    font-family: verdana;
+    font-size: 15px;
+    margin-top: 4%;
+
+
+}
+
