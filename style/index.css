@@ -176,3 +176,27 @@
     color: red;
 
 }
+.portfolio-talk_inner {
+    background-image: url(../images/images\ \(11\).jpeg);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    padding: 7% 9% 7%;
+}
+.portfolio-talk_inner h3 {
+    font-weight: 600;
+    color: #fff;
+    font-size: 30px;
+    line-height: 1.4;
+    font-family: Verdana;
+}
+.portfolio-talk_inner a {
+    color: #fff;
+    text-decoration: none;
+    font-family: Verdana;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
