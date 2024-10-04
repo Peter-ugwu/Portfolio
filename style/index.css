@@ -113,6 +113,7 @@
     width: 100%;
     height: auto;
     background-color: #f9f9f9;
+    padding: 5%;
 }
 .portfolio-text {
     font-family: verdana;
@@ -120,13 +121,58 @@
     font-weight: 700;
     letter-spacing: 5px;
     font-size: 30px;
-    margin-top: 4%;
-    padding: 9% 8% 5%;
+    padding: 5% 3% 5%;
 }
 .list-portfolio {
     display: flex;
     justify-content: space-around;
     height: auto;
     align-items: center;
-    padding: 2% 6% ;
+    padding: 2% 2% ;
+}
+.portfolio-progress {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    padding: 5%;
+    background-color: #fff;
+}
+.progress-part {
+    padding: 4%;
+}
+.progress-part h3 {
+    font-weight: 600;
+    margin-bottom: 4%;
+    font-size: 30px;
+    color: #000;
+    font-family: verdana;
+    letter-spacing: 1px;
+    width: 98%;
+}
+.progress-part p {
+    font-family: verdana;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #767676;
+    width: 97%;
+    margin-left: 1%;
+}
+.label {
+    width: 100%;
+    text-align: left;
+    font-family: Verdana;
+    font-weight: 500;
+    color: #000;
+    font-size: 15px;
+    line-height: 50px;
+    letter-spacing: 1px;
+    padding: 4% 0%;
+}
+.percent {
+    margin-left: 50%;
+    color: red;
+
 }
