@@ -108,7 +108,25 @@
     font-family: verdana;
     font-size: 15px;
     margin-top: 4%;
-
-
 }
-
+#Portfolio {
+    width: 100%;
+    height: auto;
+    background-color: #f9f9f9;
+}
+.portfolio-text {
+    font-family: verdana;
+    color: #000;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: 30px;
+    margin-top: 4%;
+    padding: 9% 8% 5%;
+}
+.list-portfolio {
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    align-items: center;
+    padding: 2% 6% ;
+}
