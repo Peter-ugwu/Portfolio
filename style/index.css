@@ -137,7 +137,7 @@
     width: 30%;
     border-radius: 11px;
     background-size: 100%;
-    margin-right: 5%;
+    margin-right: 4%;
 }
 .list-portfolio_two {
     background-image: url(../images/icc.png);
@@ -146,8 +146,7 @@
     width: 30%;
     border-radius: 11px;
     background-size: 100%;
-    margin-right: 5%;
-
+    margin-right: 4%;
 }
 .list-portfolio_three {
     background-image: url(../images/images\ \(3\).jpg);
@@ -157,12 +156,49 @@
     border-radius: 11px;
     background-size: 100%;
 }
-
-
-
-
-
-
+.list-portfolio_four {
+    background-image: url(../images/images\ \(5\).jpg);
+    background-repeat: no-repeat;
+    height: 53vh;
+    width: 30%;
+    border-radius: 11px;
+    background-size: 100%;
+    margin-right: 4%;
+}
+.list-portfolio_five {
+    background-image: url(../images/images\ \(4\).jpg);
+    background-repeat: no-repeat;
+    height: 53vh;
+    width: 30%;
+    border-radius: 11px;
+    background-size: 100%;
+    margin-right: 4%;
+}
+.list-portfolio_six {
+    background-image: url(../images/images\ \(6\).jpg);
+    background-repeat: no-repeat;
+    height: 53vh;
+    width: 30%;
+    border-radius: 11px;
+    background-size: 100%;
+}
+.list-portfolio h2 {
+    color: #767676;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    padding: 2% 7%;
+}
+.list-portfolio h3 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0% 7%;
+    
+}
+.list-portfolio h2 {
+    margin-top: 77%;
+}
 .portfolio-progress {
     display: flex;
     justify-content: space-between;
@@ -214,7 +250,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    height: auto;
+    height: 37vh;
     align-items: center;
     padding: 7% 9% 7%;
 }
@@ -280,7 +316,7 @@
     color: #000;
     font-size: 16px;
     font-weight: 600;
-    line-height: 1.4;font-family: Verdana;
+    line-height: 1.4;
     margin: 1%;
     margin-top: 4%;
 }
