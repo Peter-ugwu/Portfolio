@@ -425,3 +425,24 @@
     background-color: #e54b4b;
     border: none;
 }
+#Footer {
+    background-color: black;
+    height: 35vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.fa-brands-fa-solid {
+    color: white;
+    width: 20%;
+    margin-right: 2%;
+    letter-spacing: 11px;
+}
+.regular {
+    color: white;
+    margin-right: 3%;
+    font-size: 13px;
+    width: 25%;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
