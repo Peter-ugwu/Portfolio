@@ -257,7 +257,7 @@
 .portfolio-talk_inner h3 {
     font-weight: 600;
     color: #fff;
-    font-size: 30px;
+    font-size: 31px;
     line-height: 1.4;
     /* font-family: Verdana; */
 }
@@ -328,4 +328,100 @@
     letter-spacing: 1px;
     font-weight: 400;
     margin-top: 2%;
+}
+#Contact {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    margin-bottom: 11%;
+    padding-top: 10%;
+}
+.title_contact {
+    color: #000;
+    padding: 0% 9% 6%;
+    font-size: 26px;
+    letter-spacing: 7px;
+    font-weight: 700;
+    line-height: 2;
+}
+.title_contact span {
+    color: #e54b4b;
+}
+.contact_inner {
+    display: flex;
+}
+.text-info {
+    width: 92%;
+    padding: 0% 0% 7%;
+    line-height: 30px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #767676;
+}
+.info_contact {
+    width: 56%;
+    padding-left: 9%;
+}
+.info-one {
+    font-weight: 600;
+    color: #000;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    padding-bottom: 3%;
+}
+.info {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: #767676;
+    padding-left: 6%;
+}
+.fa-solid {
+    padding-right: 2%;
+}
+.fa-brands {
+    padding-right: 2%;
+}
+.contact_form {
+    width: 49%;
+    padding-top: 0.5%;
+}
+.form-phaseone {
+    list-style: none;
+    border: solid 1px #7676768d;
+    padding: 1.6%;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #767676;
+    border-radius: 5px;
+    margin-bottom: 6%;
+    width: 83%;
+}
+.form-phasetwo {
+    list-style: none;
+    border: solid 1px #7676768d;
+    padding: 1.8%;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #767676;
+    border-radius: 5px;
+    width: 83%;
+    padding-bottom: 14%;
+    margin-bottom: 6%;
+}
+.contact-btn {
+    padding: 2.5%;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: white;
+    border-radius: 5px;
+    width: 83%;
+    background-color: #e54b4b;
+    border: none;
 }
